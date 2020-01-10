@@ -1,0 +1,1 @@
+export default 'This is string from search model';
